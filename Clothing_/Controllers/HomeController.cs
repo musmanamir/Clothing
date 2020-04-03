@@ -10,6 +10,7 @@ namespace Clothing_.Controllers
     {
         public ActionResult Index()
         {
+
             return View();
         }
 
